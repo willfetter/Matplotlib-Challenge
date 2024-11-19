@@ -8,9 +8,12 @@ Objectives: To compare the performance of Pymaceuticals’ drug of interest, Cap
    - 'pymaceuticals_starter.ipynb' as starter file
    
 Outputs: 
-
-
-
+   - Prepare the data.
+   - Generate summary statistics.
+   - Create bar charts and pie charts.
+   - Calculate quartiles, find outliers, and create a box plot.
+   - Create a line plot and a scatter plot.
+   - Calculate correlation and regression
 
 Resources: 
    - Class information and videos - for basics of coding and building foundation
